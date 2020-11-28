@@ -3,8 +3,6 @@
 <!--
 **Kajal-s8/Kajal-s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## I'm a Front-end Web-Designer, learner, creating awesome and effective visual websites and love to do coding (Data Structures).!!
-Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking forward to work in Coding Profile
