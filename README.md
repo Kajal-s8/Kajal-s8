@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Kajal-s8/Kajal-s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kajal-s8/Kajal-s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## I'm a Front-end Web-Designer, learner, creating awesome and effective visual websites and love to do coding (Data Structures).!!
 Here are some ideas to get you started:
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking forward to work in Coding Profile
 - ⚡ Fun fact: I love painting, sketching and playing badminton
--->
+
 ## Connect with me:
 
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
